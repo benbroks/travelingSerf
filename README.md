@@ -8,6 +8,7 @@ First Line - An integer n, indicates number of nodes
 Next n lines - Latitude,Longitude
 
 Output File Format: output.txt
+
 Will output average Latitude + Longitude. 
 Solution will output nodes in order separated by spaces followed by total cycle distance in miles.
 
