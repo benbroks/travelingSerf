@@ -4,7 +4,9 @@ Given a series of latitude, longitude coordinates (coordinates separated by comm
 in a localized area, output the order of points that creates the shortest hamiltonian cycle. 
 
 Input File Format:
+
 First Line - An integer n, indicates number of nodes
+
 Next n lines - Latitude,Longitude
 
 Output File Format: output.txt
