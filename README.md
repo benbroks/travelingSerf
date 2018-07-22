@@ -1,4 +1,4 @@
-Traveling Salesman Problem
+**Traveling Salesman Problem**
 
 Given a series of latitude, longitude coordinates (coordinates separated by commas, one ordered pair per line)
 in a localized area, output the order of points that creates the shortest hamiltonian cycle. 
